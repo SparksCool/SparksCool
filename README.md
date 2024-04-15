@@ -1,4 +1,4 @@
-### Hi, I'm Sparks, a self taught developer focusing in C based languages, as well as some others!
+### Hi, I'm Sparks, a self taught developer focusing in C++, C# Java, and Python!
 
 ## My Stats:
 <p>
@@ -11,6 +11,13 @@
   </a>
   
 </p>
+
+## Contact Info:
+
+| Platform   | Handle                                             |
+| ---------- | -------------------------------------------------- |
+| Discord    | @sparkscool                                        |
+| Email      | sparks@sparktonian.net                             |
 
 <!--
 **SparksCool/SparksCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
