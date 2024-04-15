@@ -1,4 +1,4 @@
-### Hi, I'm Sparks, a self taught developer focusing in C++, C# Java, and Python!
+### Hi, I'm Sparks, a self taught developer focusing in C++, C#, and Java!
 
 ## My Stats:
 <p>
