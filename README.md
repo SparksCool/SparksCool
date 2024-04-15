@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Sparks, a self taught developer focusing in C based languages, as well as some others!
+
+## My Stats:
+<p>
+  <a href="#">
+    <img align="left" height="144em" src="https://github-readme-stats.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=radical" alt="SparksCool's GitHub Stats" />
+  </a>
+  
+  <a href="#">
+    <img align="center" height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkscool&layout=compact&theme=radical" alt="SparksCool's Top Languages" />
+  </a>
+  
+</p>
 
 <!--
 **SparksCool/SparksCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
