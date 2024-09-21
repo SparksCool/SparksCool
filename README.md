@@ -5,11 +5,12 @@
   <a href="#">
     <img align="center" height="144em" src="https://github-readme-stats.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=dark" alt="SparksCool's GitHub Stats" />
   </a>
-  
+  <a href="#">
+    <img align="center" height="144em" src="https://github-readme-streak-stats.herokuapp.com/?user=sparkscool&theme=dark" alt="SparksCool's Top Languages" />
+  </a>
   <a href="#">
     <img align="center" height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkscool&layout=compact&theme=dark" alt="SparksCool's Top Languages" />
-  </a>
-  
+  </a
 </p>
 
 
