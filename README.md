@@ -3,7 +3,7 @@
 ## My Stats:
 <p align="center">
   <a href="#">
-    <img align="left" height="144em" src="https://github-readme-stats.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=dark" alt="SparksCool's GitHub Stats" />
+    <img align="center" height="144em" src="https://github-readme-stats.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=dark" alt="SparksCool's GitHub Stats" />
   </a>
   
   <a href="#">
