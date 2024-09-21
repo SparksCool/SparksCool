@@ -1,7 +1,7 @@
 ### Hi, I'm Sparks, a self taught developer focusing in C++, C#, and Java!
 
 ## My Stats:
-<p style="text-align: center">
+<p align="center">
   <a href="#">
     <img align="left" height="144em" src="https://github-readme-stats.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=dark" alt="SparksCool's GitHub Stats" />
   </a>
