@@ -22,9 +22,6 @@
   </tr>
 </table>
 
-### You can join my development server here!
-### https://discord.gg/GvRzbpsBA7
-
 ## Contact Info:
 
 | Platform   | Handle                                             |
