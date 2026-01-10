@@ -7,7 +7,7 @@
   <tr>
     <td>
       <a href="#">
-        <img height="296em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparkscool&layout=pie&theme=dark" alt="SparksCool's Top Languages" />
+        <img height="296em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sparkscool&layout=pie&theme=dark" alt="SparksCool's Top Languages" />
       </a>
     </td>
     <td>
@@ -16,7 +16,7 @@
       </a>
       <br>
       <a href="#">
-        <img height="152em" src="https://github-readme-stats.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=dark" alt="SparksCool's GitHub Stats" />
+        <img height="152em" src="https://github-readme-stats-fast.vercel.app/api?username=sparkscool&count_private=true&show_icons=true&theme=dark" alt="SparksCool's GitHub Stats" />
       </a>
     </td>
   </tr>
