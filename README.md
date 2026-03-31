@@ -7,7 +7,7 @@
   <tr>
     <td>
       <a href="#">
-        <img height="296em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sparkscool&layout=pie&theme=dark&langs_count=8" alt="SparksCool's Top Languages" />
+        <img height="296em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sparkscool&layout=pie&theme=dark&langs_count=6" alt="SparksCool's Top Languages" />
       </a>
     </td>
     <td>
